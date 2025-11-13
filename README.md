@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá! Eu sou o Ray 👋
 
-<!--
-**rayd87/rayd87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de Bacharelado em Sistemas de Informação (BSI) na UFRPE, apaixonado por tecnologia e focado em resolver problemas através do código. Estou usando o GitHub para documentar minha jornada e construir meu portfólio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 O que estou aprendendo agora:
+* 🐍 **Automação de Processos** (Python)
+* 📊 **Estrutura de Dados e Algoritmos**
+* 🐘 **Banco de Dados** (MySQL)
+
+#### 🌱 Meus objetivos:
+* Construir um portfólio sólido e visível, usando este GitHub como ferramenta principal para documentar minha evolução.
+* Aplicar os conceitos de Estrutura de Dados  (que aprendi com o projeto em C) em novas linguagens e projetos mais complexos.
+* Conectar meu conhecimento acadêmico (BSI) com desafios reais do mercado, buscando minha primeira oportunidade (estágio ou freelancer) em Desenvolvimento ou Dados.
+* Aprofundar meus conhecimentos em outras linguagens como Python, com foco em automação de processos e web scraping, para construir projetos práticos de freelancer.
+
+#### 📫 Como me encontrar:
+* **E-mail:** [raydantas85@gmail.com]
+* **LinkedIn:** (https://www.linkedin.com/in/raydantas/)
+---
